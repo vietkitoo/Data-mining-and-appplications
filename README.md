@@ -46,46 +46,46 @@ Find the squared differences:
 Find the average of the squared differences: (0.19+0.31+2.43+0.31+2.07+0.19+0.19+0.31+0.19) / 9 = 0.69
 
 NUMERICAL DATA
-• Represents quantitative measurement
-• Heights of people, page load times, stock prices, 
+  • Represents quantitative measurement
+  • Heights of people, page load times, stock prices, 
 etc.
-• Two types:
-• Discrete Data: integer based; often counts of 
+  • Two types:
+  • Discrete Data: integer based; often counts of 
 some events
-• How many purchases did a customer make in a 
+  • How many purchases did a customer make in a 
 year?
-• How many times did I flip “heads”?
-• Continuous Data: has an infinite number of 
+  • How many times did I flip “heads”?
+  • Continuous Data: has an infinite number of 
 possible values
-• How much time did it take for a user to check out?
-• How much rain fell on a given day?
+  • How much time did it take for a user to check out?
+  • How much rain fell on a given day?
 
 CATEGORICAL DATA
-• Qualitative data without
+  • Qualitative data without
 inherent mathematical meaning
-• Gender, yes/no (binary data), race, 
+  • Gender, yes/no (binary data), race, 
 state of residence, product 
 category, political party, etc.
-• Compact representation: assign 
+  • Compact representation: assign 
 binary to categories 
-• Without mathematical meaning
+  • Without mathematical meaning
 
 ORDINAL DATA 
-• A mixture of numerical and 
+  • A mixture of numerical and 
 categorical
-• Ordinal data that has mathematical 
+  • Ordinal data that has mathematical 
 meaning
-• Example: movie ratings on a 1-5 
+  • Example: movie ratings on a 1-5 
 scale
-• Ratings must be 1,2,3,4, or 5
-• These values have mathematical 
+  • Ratings must be 1,2,3,4, or 5
+  • These values have mathematical 
 meaning
-• 1 means it’s a worse movie than a 2.
+  • 1 means it’s a worse movie than a 2.
 
 TEXTUAL DATA 
-• Huge amount of diverse textual data produced every second for wide 
+  • Huge amount of diverse textual data produced every second for wide 
 range of sources
 
 GRAPH DATA
-• E.g. social networks
+  • E.g. social networks
 
